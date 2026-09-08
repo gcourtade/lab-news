@@ -2,33 +2,34 @@
 <rss version="2.0">
   <channel>
     <title>Courtade Lab News</title>
+    <link>https://www.ntnu.edu/ibt/courtade-lab</link>
     <description>News from the Courtade Lab — CAZyme Structure and Function, Department of Biotechnology and Food Science, NTNU</description>
     <language>en</language>
 
     <item>
       <title>Congratulations to Dr. Davide Luciano for successfully defending his PhD</title>
-      <description><![CDATA[Congratulations to Dr. Davide Luciano for successfully defending his PhD! 🥳]]></description>
-      <pubDate>Fri, 25 Aug 2026 16:00:00 +0200</pubDate>
+      <description><![CDATA[August 2026 — Congratulations to Dr. Davide Luciano for successfully defending his PhD on 25.08.26! 🥳]]></description>
+      <pubDate>Tue, 25 Aug 2026 16:00:00 +0200</pubDate>
       <guid>https://www.ntnu.edu/ibt/courtade-lab#news-2026-08</guid>
     </item>
 
     <item>
       <title>The group at the 15th Carbohydrate Bioengineering Meeting in Elsinore</title>
-      <description><![CDATA[The group traveled to Elsinore, Denmark for the 15th Carbohydrate Bioengineering Meeting. Davide and Julian presented posters and Susanne had a talk on NMR of CBM92.]]></description>
-      <pubDate>May 2026</pubDate>
+      <description><![CDATA[May 2026 — The group traveled to Elsinore, Denmark for the 15th Carbohydrate Bioengineering Meeting. Davide and Julian presented posters and Susanne had a talk on NMR of CBM92.]]></description>
+      <pubDate>Thu, 01 May 2026 09:00:00 +0200</pubDate>
       <guid>https://www.ntnu.edu/ibt/courtade-lab#news-2026-05</guid>
     </item>
 
     <item>
       <title>Welcome to Julian Wegner</title>
-      <description><![CDATA[Welcome to Julian! Julian Wegner started in the group and is doing a PhD in biotechnology for engineering bacterial polysaccharides.]]></description>
-      <pubDate>Mar 2025 </pubDate>
+      <description><![CDATA[March 2025 — Welcome to Julian! Julian Wegner started in the group and is doing a PhD in biotechnology for engineering bacterial polysaccharides.]]></description>
+      <pubDate>Sat, 01 Mar 2025 09:00:00 +0100</pubDate>
       <guid>https://www.ntnu.edu/ibt/courtade-lab#news-2025-03</guid>
     </item>
 
     <item>
       <title>BMMW2024 was a success</title>
-      <description><![CDATA[BMMW2024 was a success! Despite stormy weather at Sola Strand, we had 3 days of insightful presentations, lively discussions, and practical exercises on MD simulations and NMR spectroscopy. Huge thanks to all participants, organizers, and BioCat for their support!]]></description>
+      <description><![CDATA[September 2024 — BMMW2024 was a success! Despite stormy weather at Sola Strand, we had 3 days of insightful presentations, lively discussions, and practical exercises on MD simulations and NMR spectroscopy. Huge thanks to all participants, organizers, and BioCat for their support!]]></description>
       <link>https://www.linkedin.com/posts/hi-fi-bio-md_we-are-thrilled-to-share-that-the-biomolecular-activity-7241392893578383361-FqMu</link>
       <pubDate>Sun, 01 Sep 2024 09:00:00 +0200</pubDate>
       <guid>https://www.ntnu.edu/ibt/courtade-lab#news-2024-09</guid>
@@ -36,24 +37,24 @@
 
     <item>
       <title>Plastic-degradation work featured in Gemini, Forskning.no, and Teknisk Ukeblad</title>
-      <description><![CDATA[Now also on Gemini, Forskning.no, and Teknisk Ukeblad.]]></description>
+      <description><![CDATA[April 2023 — Now also on Gemini, Forskning.no, and Teknisk Ukeblad.]]></description>
       <link>https://gemini.no/2023/04/enzymer-bryter-ned-plast/</link>
-      <pubDate>Apr 2023</pubDate>
+      <pubDate>Sat, 01 Apr 2023 09:00:00 +0200</pubDate>
       <guid>https://www.ntnu.edu/ibt/courtade-lab#news-2023-04</guid>
     </item>
 
     <item>
       <title>Popular science article on plastic-degradation work published on Norwegian SciTech News</title>
-      <description><![CDATA[A popular scientific article about our plastic-degradation work has been published on Norwegian SciTech News.]]></description>
+      <description><![CDATA[January 2023 — A popular scientific article about our plastic-degradation work has been published on Norwegian SciTech News.]]></description>
       <link>https://norwegianscitechnews.com/2023/01/enzymes-from-bacteria-and-fungi-break-down-plastic/</link>
-      <pubDate> Jan 2023 </pubDate>
+      <pubDate>Sun, 01 Jan 2023 09:00:00 +0100</pubDate>
       <guid>https://www.ntnu.edu/ibt/courtade-lab#news-2023-01</guid>
     </item>
 
     <item>
       <title>Davide and Susanne have started their PhD projects</title>
-      <description><![CDATA[Davide and Susanne have started their PhD projects in our group. Welcome!]]></description>
-      <pubDate>Oct 2022</pubDate>
+      <description><![CDATA[October 2022 — Davide and Susanne have started their PhD projects in our group. Welcome!]]></description>
+      <pubDate>Sat, 01 Oct 2022 09:00:00 +0200</pubDate>
       <guid>https://www.ntnu.edu/ibt/courtade-lab#news-2022-10</guid>
     </item>
 
